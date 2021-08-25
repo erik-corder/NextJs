@@ -1,0 +1,14 @@
+/*http://localhost:3000/product*/
+import React from "react";
+
+const index = () => {
+  return (
+    <>
+      <h2>Product 1</h2>
+      <h2>Product 2</h2>
+      <h2>Product 3</h2>
+    </>
+  );
+};
+
+export default index;
