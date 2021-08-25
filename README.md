@@ -24,13 +24,10 @@ There is two type Of navigation
   
   
 2. Programitically navigation 
-  
-    const router = useRouter();
+     
+  const router = useRouter();
 
-    const handleClick = () => {
-      router.push("./product");
-      // router.replace("./product");
-    };
-    
-    <button onClick={handleClick}>Place Order</button>    
-
+  const handleClick = () => {
+    router.push("./product");
+    // router.replace("./product");
+  };
