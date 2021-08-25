@@ -14,14 +14,15 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 There is a mulitiple routing ways in next js
 
-01.	Routing
-  a.	Routing with pages (http://localhost:3000/about)
-  b.	Nested Routes (http://localhost:3000/product/sweater)
-  c.	Dynamic Routes (http://localhost:3000/product/[:id])
-  d.	Nested dynamic Routes (http://localhost:3000/docs/[:feature1]/[:concept1])
-  e.	Catch all Routes (http://localhost:3000/docs/[:feature1]/[:concept1]/[:feature1])
+Routing
 
-when cosider file structure
+1. Routing with pages (http://localhost:3000/about)
+2. Nested Routes (http://localhost:3000/product/sweater)
+3. Dynamic Routes (http://localhost:3000/product/[:id])
+4. Nested dynamic Routes (http://localhost:3000/docs/[:feature1]/[:concept1])
+5. Catch all Routes (http://localhost:3000/docs/[:feature1]/[:concept1]/[:feature1])
+
+when cosider folder structure
 
 senario 1
 -docs
