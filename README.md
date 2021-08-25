@@ -12,7 +12,7 @@ yarn dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-``Pre-rendering & Data Fetching Intro
+```Pre-rendering & Data Fetching Intro
     a.	Type of pre-rendering
         i.	Static Generation
             1.	Without data
@@ -43,4 +43,4 @@ Why pre-render?
         b.	With a React app, if the Search engine hits your page it only sees a div tag with id equal to root.
         c.	If Search engine hits a pre-rendered page though, all the content is present in the source code which will help index that page
         d.	If SEO Is of concern for your app, pre-rendering is what you want
-``
+```
