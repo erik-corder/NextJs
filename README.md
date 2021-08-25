@@ -13,11 +13,11 @@ yarn dev
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 Pre-rendering & Data Fetching Intro
-    a.	Type of pre-rendering
-        i.	Static Generation
-            1.	Without data
-            2.	With data
-            3.	Incremental static generation
+a.Type of pre-rendering
+	i.Static Generation
+		1. Without data
+		2. With data
+		3.Incremental static generation
             4.	Dynamic parameters when fetching data
         ii.	Server-side rendering
             1.	Data-fetching
