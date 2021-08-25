@@ -1,4 +1,4 @@
-/*http://localhost:3000/docs/[:feature1]/[:concept1]*/
+/*http://localhost:3000/docs/[:feature1]/[:concept1]/[:feature1]*/
 
 import React from "react";
 import { useRouter } from "next/router";
