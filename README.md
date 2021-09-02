@@ -30,6 +30,9 @@ NextJs generates HTML for each page in advance instead of having it all done by 
  
 Pre-render just means render in advance of sending it to the browser.
 
+![SS](https://user-images.githubusercontent.com/37097649/131903571-d473fd8d-4e53-4796-b608-8ee7e1919d5d.PNG)
+
+
 Nextjs default pre-rendering
 
 Why pre-render?
