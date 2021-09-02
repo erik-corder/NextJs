@@ -10,6 +10,8 @@ npm run dev
 yarn dev
 ```
 
+![Capture](https://user-images.githubusercontent.com/37097649/131910097-5cbea31b-75be-4d0b-a178-839fef956da3.PNG)
+
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 ```Pre-rendering & Data Fetching Intro
